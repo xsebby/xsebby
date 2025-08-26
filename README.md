@@ -3,7 +3,7 @@
 💻 beginner swe learning and sharing my journey<br>
 🎓 student @ rutgers nb studying comp sci (B.S. degree)<br>
 🎥 vfx artist studying nuke, blender, houdini<br>
-📝 learning webdev technologies and how to use python alongside nuke
+📝 learning C we're cooked 😭
 
 
 
