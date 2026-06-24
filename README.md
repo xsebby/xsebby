@@ -3,7 +3,7 @@
 💻 figuring out how to become a swe/ai engineer<br>
 🎓 student @ rutgers nb studying comp sci and math<br>
 🎥 vfx artist studying nuke and houdini<br>
-📝 learning machine learning
+📝 researching topics about ai/ml <br>
 
 
 
