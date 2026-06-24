@@ -1,9 +1,9 @@
 # 👋 hi im sebby:
 ✌️ 19 y/o <br>
-💻 beginner swe learning and sharing my journey<br>
-🎓 student @ rutgers nb studying comp sci<br>
-🎥 vfx artist studying nuke, blender, houdini<br>
-📝 learning C we're cooked 😭
+💻 figuring out how to become a swe/ai engineer<br>
+🎓 student @ rutgers nb studying comp sci and math<br>
+🎥 vfx artist studying nuke and houdini<br>
+📝 learning machine learning
 
 
 
