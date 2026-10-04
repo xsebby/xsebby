@@ -1,5 +1,5 @@
 # 👋 hi im sebby:
-✌️ 19 y/o <br>
+✌️ 20 y/o <br>
 💻 figuring out how to become a swe/ai engineer<br>
 🎓 student @ rutgers nb studying comp sci and math<br>
 🎥 vfx artist studying nuke and houdini<br>
